@@ -548,3 +548,5 @@ if __name__ == "__main__":
     print("化妆师排班表已保存到'化妆师排班表.csv'")
     print("可视化图表已保存为多个文件")
     print(111)
+    print("github")
+    
