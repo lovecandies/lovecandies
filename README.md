@@ -20,23 +20,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:B85F45,45:D7A45F,100:3B6F85&text=Backend%20%2B%20Agent%20Engineering&fontColor=F5EFE6&fontSize=36&fontAlignY=38&desc=Build%20reliable%20systems%20with%20evidence,%20memory,%20and%20safe%20automation&descAlignY=60&descSize=15" alt="profile banner" width="100%" />
 </p>
 
-## About Me
-
-我关注后端系统的可靠性、可观测性和智能化工程落地，喜欢把项目从 Demo 做成可运行、可测试、可复盘的完整闭环。
-
-- 主要方向：Java 后端、分布式系统、Agent 应用、RAG、AIOps
-- 工程偏好：状态机、异步消息、幂等设计、可观测性、黑盒验证
-- 最近重点：多 Agent 故障诊断、安全恢复控制面、长视频异步解析与知识问答
-
-
-
-## Featured Projects
-
-| 项目 | 技术栈 | 亮点 |
-| --- | --- | --- |
-| [AxiomOps](https://github.com/lovecandies/AxiomOps) | Python、FastAPI、LangGraph、DeepSeek、MySQL、Redis、RocketMQ、Qdrant、Prometheus、React | 证据驱动的多 Agent 智能故障诊断与安全恢复系统，包含故障注入、不可变 Evidence、RCA、审批恢复和 Benchmark |
-| [OmniVID](https://github.com/lovecandies/OmniVID) | Spring Boot、MySQL、Redis、RocketMQ、Qdrant、RAG、Embedding、React、Docker | 长视频异步解析系统，支持分片上传、断点续传、异步解析、RAG 问答和多文档导出 |
-| [daily_stock_analysis](https://github.com/lovecandies/daily_stock_analysis) | Python、LLM、多数据源、自动化推送 | 面向 A/H/美股的智能分析系统，整合行情、新闻与模型决策仪表盘 |
 
 ## Tech Stack
 
