@@ -38,31 +38,6 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
 </p>
 
-## Project Map
-
-```mermaid
-mindmap
-  root((lovecandies))
-    Backend
-      Spring Boot
-      MySQL / Redis
-      RocketMQ
-      Idempotency
-    Agent
-      LangGraph
-      RAG
-      Tool Calling
-      Memory
-    AIOps
-      Evidence
-      RCA
-      Approval
-      Recovery
-    Observability
-      Prometheus
-      Trace
-      Benchmark
-```
 
 ## GitHub Activity
 
