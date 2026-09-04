@@ -28,14 +28,7 @@
 - 工程偏好：状态机、异步消息、幂等设计、可观测性、黑盒验证
 - 最近重点：多 Agent 故障诊断、安全恢复控制面、长视频异步解析与知识问答
 
-## Focus
 
-| 方向 | 关注点 |
-| --- | --- |
-| Java Backend | Spring Boot、MySQL、Redis、RocketMQ、任务状态机、可靠异步链路 |
-| Agent Engineering | LangGraph、LangChain4j、Tool Calling、RAG、上下文记忆、结构化输出 |
-| AIOps | Incident 控制面、Typed Evidence、多 Agent RCA、人工审批、安全恢复 |
-| Observability | Prometheus、Trace ID、SSE 进度推送、Benchmark 与可复现实验 |
 
 ## Featured Projects
 
